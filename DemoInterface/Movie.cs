@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoInterface
 {
-    public class BookService : BaseService<int, Book>
+    public class Movie
     {
     }
 }
